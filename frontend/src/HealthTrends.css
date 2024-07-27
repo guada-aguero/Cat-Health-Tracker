@@ -1,0 +1,40 @@
+.cat-selection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.cat-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.cat-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.cat-photo {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.cat-name {
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+.chart-container {
+    background-color: rgba(255, 255, 255, 0.8); /* White with some transparency */
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Subtle shadow for depth */
+}

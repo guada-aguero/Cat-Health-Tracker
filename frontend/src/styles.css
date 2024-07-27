@@ -1,0 +1,51 @@
+/* Add a background color and font color for better readability */
+.fc {
+    background-color: rgba(255, 255, 255, 0.8); /* Light background for better readability */
+    color: black; /* Black font color */
+}
+
+.fc .fc-daygrid-day-number {
+    color: black; /* Ensure day numbers are black */
+}
+
+/* Style for the day names (e.g., Sun, Mon) */
+.fc .fc-col-header-cell-cushion {
+    font-weight: bold;
+    color: black;
+}
+
+/* Popup styling */
+.popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+}
+
+.popup-content {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.btn {
+    margin-right: 10px;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    border: none;
+}
+
+.btn-primary {
+    background-color: #d286e6;
+    border: none;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border: none;
+}

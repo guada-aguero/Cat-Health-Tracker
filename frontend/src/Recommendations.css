@@ -1,0 +1,54 @@
+.recommendations {
+    padding: 20px;
+    background-color: #f8f9faa8;
+}
+
+.recommendations h2 {
+    margin-bottom: 20px;
+}
+
+.recommendations ul {
+    list-style: none;
+    padding: 0;
+}
+
+.recommendations li {
+    background-color: rgba(255, 255, 255, 0.863);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.recommendations .tip {
+    margin-top: 10px;
+}
+
+.recommendations .status-buttons {
+    margin-top: 10px;
+}
+
+.recommendations .status-buttons button {
+    margin-right: 10px;
+    padding: 5px 10px;
+    background-color: #b866b8;
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.recommendations .status-buttons button:hover {
+    background-color: #ee7ef8;
+}
+
+.notification-badge {
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    padding: 5px 10px;
+    font-size: 12px;
+    vertical-align: top;
+    margin-left: 5px;
+}

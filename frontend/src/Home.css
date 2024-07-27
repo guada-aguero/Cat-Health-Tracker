@@ -1,0 +1,63 @@
+.home-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.home-content {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.home-content h2 {
+    margin-top: 20px;
+}
+
+.home-content ul {
+    text-align: left;
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.home-content p {
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.home-container {
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.8); /* Shaded background */
+    border-radius: 10px;
+}
+
+.home-title {
+    font-size: 2.5em; /* Bigger font for title */
+    font-weight: bold;
+}
+
+.home-description {
+    font-size: 1.2em; /* Slightly bigger font for description */
+}
+
+.home-features {
+    margin-top: 20px;
+}
+
+
+.home-features .feature-description {
+    font-size: 1em;
+}

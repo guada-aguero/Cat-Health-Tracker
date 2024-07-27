@@ -1,0 +1,101 @@
+Owner Name,Cat Name,Cat Age,Cat Breed,Hair Type,Self-Playing Activities,Interactive Activities,Activity Duration (min),Zoomies,Food Types,Portion Size (grams),Feeding Frequency (times/day),Feeding Schedule,Current Weight (kg),Last Vet Visit,Next Vaccination Date,Last Anti-parasitic Treatment,Grooming,Grooming Frequency (times/week),Clean Teeth,Last Teeth Cleaning,Teeth Cleaning Method,Hairball Prevention Frequency (times/week),Hairball Prevention Measures,Average Sleep Duration (hours/night),Sleep Quality (1-10),Awareness of Teeth Cleaning Needs,Awareness of Shedding Management,Awareness of Ear and Eye Care,Awareness of Playtime Importance,Awareness of Hairball Prevention
+Owner1,Ginger,7,Unknown,Short Hair,Hunting,None,66,No,Dry Food,60,1,Free Feeding,4.59,Unknown,Unknown,03/01/2024,No,0,No,None,None,3,Special Food,12.1,6,Yes,Yes,No,Yes,No
+Owner2,Callie,15,Unknown,Middle Hair,Running,Fetching,38,No,Wet Food,134,2,Routine Feeding,7.18,09/07/2023,09/03/2025,11/09/2023,No,0,No,None,None,4,Malt Paste,11.9,5,No,Yes,Yes,No,No
+Owner3,Pepper,11,American Curl,Short Hair,Running,Fetching,87,Yes,Dry Food,75,1,Routine Feeding,6.6,22/09/2022,Unknown,15/01/2024,Yes,3,No,None,None,4,Malt Paste,13.3,7,Yes,No,No,No,No
+Owner4,Callie,8,Unknown,Middle Hair,Running,None,101,No,Dry Food,112,1,Free Feeding,6.25,10/05/2023,10/08/2024,26/09/2023,Yes,3,No,None,None,6,Special Food,9.1,5,Yes,No,No,No,No
+Owner5,Sammy,7,Burmilla,Middle Hair,Running,Playing with toys,78,No,Raw Diet,135,1,Routine Feeding,7.63,09/09/2023,Unknown,06/10/2023,No,2,No,None,None,4,Brushing,8.2,9,No,No,No,Yes,Yes
+Owner6,Whiskers,19,Unknown,Long Hair,Playing with toys,Playing with toys,56,Yes,Tuna,108,2,Routine Feeding,7.95,Unknown,Unknown,15/06/2024,Yes,1,Yes,18/03/2023,Brushing,6,Special Food,10.5,10,No,Yes,Yes,Yes,Yes
+Owner7,Sadie,11,Unknown,Middle Hair,Running,Fetching,103,No,Homemade,76,2,Routine Feeding,3.63,25/12/2023,11/09/2024,16/02/2024,No,4,Yes,15/11/2023,Brushing,2,Malt Paste,13.6,10,No,No,No,No,No
+Owner8,Toby,11,Aegean,Long Hair,Hunting,Playing with toys,119,Yes,Dry Food,147,2,Free Feeding,6.09,05/05/2023,Unknown,21/10/2023,Yes,4,Yes,25/08/2023,Brushing,3,Malt Paste,9.6,10,No,Yes,No,Yes,No
+Owner9,Coco,4,Unknown,Short Hair,Hunting,Cuddling,71,Yes,Wet Food,154,1,Routine Feeding,7.6,05/09/2023,10/07/2025,22/09/2023,Yes,4,No,None,Professional Cleaning,1,Special Food,13.4,10,No,Yes,Yes,Yes,Yes
+Owner10,Mittens,8,Unknown,Short Hair,Running,Fetching,78,Yes,Dry Food,148,2,Routine Feeding,6.47,19/03/2024,Unknown,03/07/2024,No,2,No,None,Professional Cleaning,5,Malt Paste,15.8,10,No,No,Yes,Yes,No
+Owner11,Luna,3,Unknown,Short Hair,Running,Playing with toys,85,Yes,Tuna,178,2,Routine Feeding,2.76,17/09/2022,Unknown,01/02/2024,Yes,3,Yes,06/02/2023,Professional Cleaning,1,Special Food,8.8,6,Yes,Yes,Yes,Yes,No
+Owner12,Sadie,2,Unknown,Short Hair,Hunting,Fetching,25,Yes,Dry Food,198,1,Free Feeding,8.3,17/12/2022,Unknown,23/03/2024,No,5,No,None,None,2,Special Food,13.4,10,No,Yes,Yes,Yes,No
+Owner13,Smokey,12,Unknown,Long Hair,Hunting,Cuddling,99,Yes,Wet Food,104,3,Routine Feeding,7.05,13/11/2023,Unknown,09/01/2024,Yes,6,No,None,None,5,None,11.6,10,No,No,No,No,No
+Owner14,Felix,6,Unknown,Short Hair,Playing with toys,Fetching,99,Yes,Dry Food,55,1,Free Feeding,8.13,24/01/2023,Unknown,23/09/2023,No,6,No,None,None,4,Malt Paste,14.9,10,No,No,No,No,No
+Owner15,Oscar,2,Cymric,Middle Hair,Hunting,Fetching,57,No,Dry Food,144,2,Free Feeding,8.4,Unknown,06/07/2025,25/11/2023,No,5,Yes,28/03/2023,Professional Cleaning,0,None,9.4,7,Yes,No,No,No,No
+Owner16,George,1,Unknown,Middle Hair,Playing with toys,Fetching,94,Yes,Dry Food,182,1,Free Feeding,8.54,30/04/2024,Unknown,30/11/2023,Yes,2,No,None,None,2,Special Food,13.5,10,No,Yes,No,No,No
+Owner17,Penny,12,Unknown,Middle Hair,Playing with toys,Fetching,48,Yes,Dry Food,151,3,Free Feeding,5.03,24/06/2023,12/10/2024,08/09/2023,No,5,Yes,17/12/2023,Brushing,2,Special Food,14.7,10,No,Yes,Yes,No,Yes
+Owner18,Cleo,12,Unknown,Long Hair,Playing with toys,Cuddling,109,No,Dry Food,52,1,Free Feeding,5.3,17/12/2023,10/05/2024,07/04/2024,Yes,4,No,None,None,3,Special Food,15.6,10,No,Yes,No,Yes,No
+Owner19,Coco,17,Unknown,Short Hair,Playing with toys,None,42,No,Dry Food,72,2,Free Feeding,7.49,27/03/2023,12/06/2024,20/05/2024,Yes,1,No,None,None,1,Special Food,13.5,2,Yes,Yes,Yes,Yes,Yes
+Owner20,Milo,10,Unknown,Short Hair,Playing with toys,Fetching,103,No,Wet Food,102,3,Routine Feeding,7.49,23/05/2023,Unknown,25/03/2024,Yes,0,No,None,None,2,Brushing,12,10,No,No,No,No,No
+Owner21,Toby,16,Unknown,Short Hair,Running,Fetching,110,Yes,Dry Food,132,2,Free Feeding,5.74,Unknown,Unknown,13/02/2024,No,6,No,None,None,2,Special Food,12.9,10,No,No,No,Yes,No
+Owner22,Sassy,15,Unknown,Long Hair,Hunting,Playing with toys,32,No,Tuna,194,3,Routine Feeding,5.74,01/02/2023,01/11/2026,11/11/2023,No,3,No,None,None,4,Brushing,15,10,No,No,No,No,No
+Owner23,Oscar,15,Unknown,Middle Hair,Playing with toys,Fetching,19,Yes,Dry Food,134,3,Routine Feeding,6.26,13/10/2022,Unknown,06/05/2024,Yes,3,No,None,None,4,Brushing,12.6,9,No,No,No,No,No
+Owner24,George,19,Unknown,Middle Hair,Hunting,Playing with toys,78,Yes,Dry Food,127,1,Free Feeding,6.49,17/01/2024,06/12/2026,06/09/2023,Yes,2,Yes,07/09/2022,Dental chews,5,Malt Paste,8.2,8,Yes,No,Yes,No,Yes
+Owner25,Lucy,12,Himalayan,Short Hair,Hunting,None,109,Yes,Dry Food,159,1,Routine Feeding,6.43,14/01/2024,10/02/2024,29/09/2023,No,3,Yes,30/11/2023,Brushing,6,Brushing,15.4,10,No,No,Yes,Yes,Yes
+Owner26,Socks,3,Khao Manee,Middle Hair,Playing with toys,Cuddling,43,Yes,Raw Diet,50,2,Routine Feeding,7.45,Unknown,12/08/2025,07/11/2023,Yes,4,No,None,None,6,Malt Paste,13.5,10,Yes,No,Yes,No,No
+Owner27,Coco,5,Snowshoe,Middle Hair,Running,Cuddling,61,No,Homemade,100,1,Routine Feeding,5.93,19/06/2024,Unknown,08/06/2024,Yes,6,No,None,None,0,None,13.4,10,No,No,No,No,No
+Owner28,Gracie,19,Unknown,Long Hair,Playing with toys,None,104,No,Tuna,53,1,Routine Feeding,5.47,Unknown,Unknown,18/11/2023,No,5,Yes,07/07/2024,Professional Cleaning,6,Brushing,9.7,10,No,No,Yes,Yes,Yes
+Owner29,Molly,7,Unknown,Long Hair,Running,Cuddling,19,Yes,Dry Food,162,3,Free Feeding,6.41,04/08/2022,08/02/2025,17/02/2024,Yes,4,No,None,None,3,Brushing,13.3,10,Yes,Yes,No,No,No
+Owner30,Molly,9,Unknown,Long Hair,Hunting,None,28,Yes,Tuna,81,1,Routine Feeding,5.68,01/03/2023,Unknown,30/11/2023,No,2,No,None,None,0,None,11.2,10,No,No,No,No,No
+Owner31,Midnight,7,Savannah,Long Hair,Running,None,67,Yes,Dry Food,83,3,Free Feeding,5.95,04/02/2024,Unknown,13/11/2023,Yes,4,No,None,None,5,Malt Paste,13.2,10,Yes,No,No,No,No
+Owner32,Mittens,18,Persian,Short Hair,Running,None,105,No,Tuna,141,3,Routine Feeding,4.65,19/01/2024,11/08/2024,12/08/2023,No,5,Yes,26/04/2024,Brushing,4,Malt Paste,8.9,8,Yes,Yes,Yes,Yes,Yes
+Owner33,Charlie,4,Unknown,Long Hair,Running,Cuddling,10,Yes,Dry Food,144,3,Routine Feeding,5.43,03/10/2023,08/12/2025,15/07/2023,Yes,1,Yes,12/04/2023,Brushing,6,Malt Paste,13.3,7,No,Yes,Yes,No,No
+Owner34,Oreo,14,Bengal,Middle Hair,Hunting,Playing with toys,78,Yes,Dry Food,121,2,Free Feeding,4.37,12/05/2024,Unknown,26/12/2023,Yes,2,Yes,22/12/2022,Professional Cleaning,1,Special Food,16,7,No,No,No,No,No
+Owner35,Ginger,18,Turkish Angora,Short Hair,Hunting,None,118,No,Homemade,88,2,Routine Feeding,3.76,21/09/2022,Unknown,11/02/2024,No,1,No,None,None,4,Special Food,8.4,7,No,No,No,No,No
+Owner36,Gracie,9,Unknown,Middle Hair,Running,Fetching,13,No,Raw Diet,167,2,Routine Feeding,5.49,17/09/2022,Unknown,02/05/2024,Yes,0,Yes,20/03/2023,Brushing,3,Malt Paste,15.8,10,No,No,No,Yes,No
+Owner37,Molly,2,Unknown,Middle Hair,Running,Cuddling,25,Yes,Wet Food,52,3,Routine Feeding,4.87,09/02/2024,Unknown,26/12/2023,No,1,Yes,11/05/2023,Brushing,4,Malt Paste,11.3,5,Yes,No,Yes,No,No
+Owner38,Socks,15,Siamese,Middle Hair,Playing with toys,None,33,No,Dry Food,172,2,Free Feeding,5.83,Unknown,09/03/2024,22/09/2023,Yes,0,Yes,03/10/2023,Brushing,3,Malt Paste,15,5,Yes,Yes,No,Yes,Yes
+Owner39,Ginger,7,Unknown,Long Hair,Running,None,89,No,Wet Food,99,2,Routine Feeding,6.52,26/05/2024,Unknown,27/06/2024,No,0,Yes,14/02/2023,Brushing,3,Brushing,14.3,10,Yes,No,No,No,No
+Owner40,Chloe,12,Unknown,Long Hair,Playing with toys,Fetching,11,Yes,Dry Food,61,1,Free Feeding,7.82,21/04/2024,Unknown,07/03/2024,No,1,Yes,06/04/2024,Brushing,3,Brushing,12.5,9,Yes,No,No,Yes,No
+Owner41,Smokey,8,Unknown,Short Hair,Running,Playing with toys,101,No,Tuna,103,2,Routine Feeding,3.42,19/07/2023,07/11/2025,10/12/2023,No,2,No,None,None,5,Special Food,13.9,8,No,No,No,No,Yes
+Owner42,Fluffy,15,Japanese Bobtail,Short Hair,Playing with toys,Playing with toys,41,Yes,Dry Food,182,2,Free Feeding,8.83,25/08/2022,Unknown,14/05/2024,No,5,No,None,None,3,Special Food,15,6,No,No,Yes,No,No
+Owner43,Zoe,3,Unknown,Long Hair,Hunting,Playing with toys,100,No,Dry Food,106,3,Free Feeding,6.72,17/02/2024,Unknown,01/04/2024,Yes,4,No,None,None,3,Malt Paste,11.2,9,No,Yes,No,No,Yes
+Owner44,Daisy,14,Unknown,Middle Hair,Running,None,93,Yes,Homemade,194,3,Routine Feeding,6.58,23/10/2022,Unknown,02/06/2024,Yes,4,Yes,17/10/2023,Brushing,1,None,10.6,8,Yes,Yes,No,Yes,Yes
+Owner45,Daisy,17,Burmese,Short Hair,Running,None,33,Yes,Dry Food,161,3,Routine Feeding,5.65,07/08/2023,Unknown,19/06/2024,No,5,Yes,08/02/2024,Brushing,0,Malt Paste,13.3,10,No,Yes,Yes,Yes,No
+Owner46,Jasper,4,Unknown,Long Hair,Running,None,21,Yes,Dry Food,96,3,Free Feeding,9.49,26/03/2023,Unknown,05/06/2024,No,6,No,None,None,2,Special Food,14.5,5,No,No,No,No,No
+Owner47,Oliver,18,Unknown,Long Hair,Running,Cuddling,59,No,Dry Food,134,3,Free Feeding,8.14,12/05/2024,09/09/2024,27/09/2023,No,6,No,None,None,0,None,14.1,9,Yes,Yes,No,No,No
+Owner48,Simba,8,Unknown,Long Hair,Playing with toys,Fetching,44,Yes,Homemade,191,3,Routine Feeding,6.39,13/08/2022,07/09/2026,05/03/2024,Yes,0,Yes,27/08/2022,Professional Cleaning,3,Special Food,14.4,4,No,No,No,Yes,Yes
+Owner49,Nala,4,Unknown,Middle Hair,Running,None,42,No,Dry Food,115,2,Free Feeding,8.28,20/07/2023,Unknown,28/11/2023,Yes,0,Yes,21/04/2024,Brushing,1,Malt Paste,11.5,4,No,No,Yes,No,No
+Owner50,Shadow,2,Unknown,Long Hair,Hunting,Fetching,42,Yes,Homemade,124,3,Routine Feeding,3.29,31/12/2022,07/03/2026,28/03/2024,Yes,2,Yes,22/06/2024,Professional Cleaning,4,Malt Paste,14.5,6,Yes,Yes,Yes,No,Yes
+Owner51,Simba,6,Unknown,Long Hair,Hunting,Fetching,70,Yes,Dry Food,152,3,Routine Feeding,3.62,22/08/2023,11/04/2024,24/01/2024,Yes,3,No,None,None,1,Malt Paste,9,6,No,Yes,No,No,No
+Owner52,Sassy,10,Unknown,Long Hair,Running,Playing with toys,60,No,Tuna,87,1,Routine Feeding,6.43,24/02/2024,02/06/2025,03/04/2024,No,1,No,None,None,3,None,12.4,10,No,Yes,No,No,No
+Owner53,Fluffy,4,Unknown,Long Hair,Hunting,Cuddling,52,Yes,Homemade,99,2,Routine Feeding,5.22,12/12/2023,Unknown,26/07/2023,No,0,No,None,None,1,None,8,8,No,No,Yes,No,No
+Owner54,Sammy,18,Unknown,Short Hair,Running,None,110,Yes,Dry Food,147,2,Free Feeding,8.15,06/05/2023,Unknown,02/07/2024,No,4,No,None,None,6,None,10.6,6,No,Yes,No,Yes,No
+Owner55,Leo,12,Unknown,Short Hair,Running,Playing with toys,21,No,Wet Food,131,2,Routine Feeding,3.07,22/07/2022,Unknown,13/10/2023,Yes,2,Yes,01/05/2023,Professional Cleaning,1,Brushing,10.9,9,No,No,No,No,No
+Owner56,Pepper,2,Chantilly-Tiffany,Long Hair,Hunting,Playing with toys,76,Yes,Dry Food,79,3,Free Feeding,6.95,Unknown,03/06/2025,04/04/2024,Yes,1,Yes,18/11/2022,Professional Cleaning,3,Special Food,11.2,7,No,No,Yes,No,No
+Owner57,Chloe,10,Norwegian Forest Cat,Middle Hair,Running,None,74,Yes,Dry Food,128,3,Routine Feeding,4.58,12/06/2024,Unknown,31/05/2024,Yes,2,No,None,None,5,Special Food,13.6,8,No,No,No,Yes,No
+Owner58,Sammy,4,Unknown,Short Hair,Hunting,Fetching,42,Yes,Dry Food,140,3,Free Feeding,6.51,13/09/2022,07/06/2025,13/09/2023,No,1,No,None,None,6,Brushing,11.1,8,No,No,Yes,No,No
+Owner59,Whiskers,14,Havana Brown,Long Hair,Playing with toys,Playing with toys,49,Yes,Raw Diet,101,1,Routine Feeding,5.82,03/10/2023,Unknown,27/06/2024,No,1,No,None,None,1,Brushing,11.6,10,No,No,No,No,No
+Owner60,Jasper,16,Unknown,Short Hair,Running,Fetching,83,No,Dry Food,128,3,Free Feeding,6.76,13/09/2023,Unknown,19/08/2023,Yes,5,Yes,24/09/2022,Brushing,2,Special Food,9.9,10,No,No,No,No,Yes
+Owner61,Charlie,15,Unknown,Short Hair,Playing with toys,Cuddling,52,No,Dry Food,79,1,Free Feeding,6.97,12/05/2023,03/04/2025,18/05/2024,No,0,Yes,18/04/2023,Brushing,2,Malt Paste,11,10,No,Yes,Yes,No,Yes
+Owner62,Max,8,Unknown,Middle Hair,Hunting,Fetching,53,Yes,Tuna,155,2,Routine Feeding,5.17,25/03/2023,Unknown,07/09/2023,Yes,2,No,None,None,1,Brushing,9.8,6,Yes,Yes,No,No,No
+Owner63,Bella,14,Unknown,Long Hair,Playing with toys,Cuddling,38,No,Dry Food,100,3,Routine Feeding,4.75,02/10/2023,Unknown,15/09/2023,Yes,2,Yes,23/02/2023,Professional Cleaning,5,Brushing,8.6,7,Yes,No,No,No,Yes
+Owner64,Chloe,8,Unknown,Long Hair,Playing with toys,Fetching,22,Yes,Raw Diet,130,1,Routine Feeding,6.75,21/02/2024,05/09/2026,02/07/2024,No,5,Yes,31/10/2023,Brushing,4,Brushing,12.8,10,No,No,No,Yes,Yes
+Owner65,Buddy,16,Unknown,Middle Hair,Hunting,Playing with toys,21,No,Raw Diet,182,1,Routine Feeding,2.57,17/05/2023,Unknown,31/08/2023,Yes,4,No,None,None,3,Brushing,13.3,9,No,No,No,No,No
+Owner66,Oliver,13,Unknown,Middle Hair,Playing with toys,Playing with toys,104,Yes,Dry Food,78,3,Free Feeding,7.29,25/06/2024,08/10/2024,25/04/2024,No,4,No,None,None,2,Malt Paste,13,7,Yes,Yes,No,Yes,No
+Owner67,Max,18,American Shorthair,Long Hair,Playing with toys,Cuddling,55,Yes,Homemade,181,2,Routine Feeding,5.61,26/06/2024,Unknown,11/12/2023,Yes,6,No,None,None,4,Special Food,11.7,9,Yes,Yes,Yes,No,No
+Owner68,Lucy,15,Unknown,Long Hair,Hunting,None,11,Yes,Dry Food,187,2,Free Feeding,7.94,02/12/2022,Unknown,10/08/2023,No,0,No,None,None,1,Malt Paste,11,6,Yes,No,Yes,No,No
+Owner69,Mittens,13,Unknown,Middle Hair,Playing with toys,Cuddling,44,Yes,Dry Food,194,2,Free Feeding,7.29,09/07/2023,07/09/2026,24/10/2023,No,0,Yes,06/02/2023,Brushing,4,Brushing,14.9,8,No,Yes,Yes,No,No
+Owner70,Whiskers,9,Unknown,Short Hair,Hunting,Cuddling,96,Yes,Homemade,123,1,Routine Feeding,7.05,21/01/2024,Unknown,16/02/2024,No,3,Yes,17/10/2023,Professional Cleaning,6,Brushing,12.2,10,No,No,No,No,Yes
+Owner71,Penny,15,Turkish Van,Short Hair,Playing with toys,Fetching,90,Yes,Dry Food,66,1,Free Feeding,9.27,02/01/2024,12/05/2024,24/04/2024,Yes,5,No,None,None,0,Malt Paste,11.8,6,No,No,No,No,No
+Owner72,Felix,13,Ragdoll,Middle Hair,Hunting,Fetching,99,No,Dry Food,133,1,Free Feeding,5.88,28/02/2023,Unknown,12/12/2023,Yes,4,Yes,19/12/2023,Professional Cleaning,2,Malt Paste,8.2,10,No,No,No,No,Yes
+Owner73,Oreo,1,Unknown,Short Hair,Hunting,Cuddling,17,Yes,Dry Food,118,1,Free Feeding,5.25,23/03/2024,Unknown,29/12/2023,No,1,No,22/01/2023,Professional Cleaning,1,Special Food,10.7,8,No,No,Yes,No,No
+Owner74,Cleo,7,Ragamuffin,Middle Hair,Playing with toys,Playing with toys,102,No,Dry Food,83,2,Free Feeding,6.33,22/03/2024,Unknown,27/12/2023,No,2,No,None,None,3,Special Food,11,7,No,No,No,Yes,No
+Owner75,Luna,9,Munchkin,Short Hair,Playing with toys,Fetching,35,Yes,Homemade,55,3,Routine Feeding,4.08,05/12/2023,Unknown,19/06/2024,Yes,0,No,None,None,5,Brushing,11.2,7,No,Yes,No,No,No
+Owner76,Jasper,1,Unknown,Short Hair,Playing with toys,None,83,No,Dry Food,102,1,Routine Feeding,5.88,05/09/2022,Unknown,16/04/2024,Yes,2,No,None,None,6,Malt Paste,12.6,10,Yes,No,No,No,No
+Owner77,Oreo,12,Unknown,Long Hair,Running,Fetching,99,No,Dry Food,175,1,Routine Feeding,7.52,09/10/2022,Unknown,20/10/2023,Yes,2,No,None,None,1,Malt Paste,12.3,10,No,No,No,No,No
+Owner78,Midnight,8,Unknown,Long Hair,Running,Fetching,43,No,Tuna,92,2,Routine Feeding,3.27,24/10/2023,Unknown,22/02/2024,No,3,No,None,None,3,Special Food,12.9,8,No,No,Yes,Yes,Yes
+Owner79,Zoe,11,Exotic Shorthair,Short Hair,Running,None,114,Yes,Dry Food,164,3,Free Feeding,4.55,20/05/2024,12/12/2024,16/05/2024,Yes,4,Yes,09/09/2023,Brushing,5,Malt Paste,14.1,10,No,Yes,Yes,Yes,No
+Owner80,Oliver,19,Tonkinese,Short Hair,Hunting,Cuddling,16,Yes,Homemade,160,3,Free Feeding,5.41,10/10/2022,Unknown,15/07/2023,Yes,0,Yes,10/02/2023,Dental chews,5,Malt Paste,14.5,5,No,No,No,Yes,Yes
+Owner81,Buddy,17,Unknown,Long Hair,Playing with toys,None,77,No,Homemade,129,2,Routine Feeding,6.49,13/04/2023,Unknown,18/06/2024,No,2,No,None,None,1,Malt Paste,13.7,6,No,No,No,Yes,Yes
+Owner82,George,8,Singapura,Long Hair,Hunting,Cuddling,67,Yes,Raw Diet,144,2,Routine Feeding,5.76,03/02/2024,03/03/2026,28/05/2024,Yes,0,Yes,17/06/2024,Professional Cleaning,6,Special Food,15.6,8,No,Yes,No,No,Yes
+Owner83,Daisy,3,Unknown,Long Hair,Running,Cuddling,118,No,Wet Food,167,3,Routine Feeding,3.06,30/06/2023,04/02/2026,30/09/2023,Yes,1,No,None,None,4,Brushing,8.1,8,Yes,Yes,No,No,No
+Owner84,Zoe,3,Unknown,Middle Hair,Playing with toys,Cuddling,84,Yes,Dry Food,193,1,Free Feeding,9.05,18/04/2024,Unknown,22/10/2023,Yes,3,No,None,None,4,Brushing,9.6,10,No,No,No,No,No
+Owner85,Gracie,1,Unknown,Short Hair,Hunting,None,38,No,Tuna,57,3,Routine Feeding,6.85,20/05/2024,08/08/2024,28/06/2024,No,1,No,28/12/2023,Brushing,5,Brushing,8.1,10,No,No,No,Yes,Yes
+Owner86,Cleo,5,Cyprus,Long Hair,Playing with toys,Cuddling,45,No,Dry Food,181,2,Routine Feeding,2.63,26/03/2023,Unknown,28/12/2023,No,0,No,23/06/2023,Brushing,4,Brushing,13.2,4,Yes,No,No,Yes,No
+Owner87,Callie,10,Unknown,Short Hair,Hunting,Playing with toys,98,Yes,Tuna,153,1,Routine Feeding,6.08,18/01/2024,Unknown,06/10/2023,No,6,Yes,31/07/2023,Professional Cleaning,0,Malt Paste,15.2,10,Yes,Yes,No,Yes,No
+Owner88,Midnight,7,Unknown,Middle Hair,Playing with toys,None,30,No,Dry Food,181,1,Free Feeding,8.24,19/06/2023,Unknown,19/04/2024,No,0,Yes,21/08/2022,Dental chews,5,Brushing,9.9,10,No,Yes,No,Yes,Yes
+Owner89,Lucy,9,Somali,Middle Hair,Running,Playing with toys,45,Yes,Dry Food,74,2,Free Feeding,6.06,31/07/2023,Unknown,07/11/2023,No,4,No,None,None,5,Brushing,15.4,10,Yes,No,No,Yes,No
+Owner90,Max,7,Siamese,Long Hair,Running,Cuddling,19,No,Dry Food,145,2,Free Feeding,4.38,06/07/2024,04/06/2025,18/10/2023,No,2,No,None,None,3,Special Food,8.5,5,No,No,No,Yes,No
+Owner91,Nala,9,Unknown,Middle Hair,Playing with toys,Fetching,110,No,Dry Food,142,2,Free Feeding,4.43,05/09/2023,10/10/2025,14/08/2023,No,2,Yes,03/01/2023,Dental chews,4,Special Food,15.5,5,No,No,No,No,No
+Owner92,Shadow,8,Australian Mist,Short Hair,Hunting,Cuddling,82,Yes,Dry Food,110,3,Free Feeding,4.57,Unknown,Unknown,19/03/2024,Yes,1,No,None,None,6,Brushing,10.8,4,No,No,No,No,No
+Owner93,Luna,12,Unknown,Long Hair,Running,Playing with toys,33,Yes,Dry Food,171,3,Free Feeding,8.62,21/08/2023,Unknown,07/07/2024,Yes,3,No,None,None,5,Brushing,8.8,7,Yes,No,Yes,No,Yes
+Owner94,Leo,2,American Bobtail,Short Hair,Running,Playing with toys,73,Yes,Dry Food,100,1,Free Feeding,9.01,21/05/2024,Unknown,28/02/2024,No,6,No,None,Brushing,6,Malt Paste,11.9,10,No,No,No,No,No
+Owner95,Smokey,1,Unknown,Short Hair,Running,None,108,No,Dry Food,196,2,Free Feeding,4.68,Unknown,Unknown,20/01/2024,Yes,5,No,None,None,0,Brushing,10.1,10,Yes,No,No,No,No
+Owner96,Tiger,16,Scottish Fold,Middle Hair,Playing with toys,Fetching,58,Yes,Tuna,70,1,Routine Feeding,3.8,28/11/2023,04/07/2026,21/08/2023,Yes,2,No,None,None,3,Malt Paste,10.3,10,Yes,No,No,Yes,No
+Owner97,Milo,5,York Chocolate,Middle Hair,Playing with toys,None,108,No,Tuna,54,1,Routine Feeding,3.41,13/12/2022,Unknown,03/09/2023,No,4,No,None,None,1,Malt Paste,10.5,10,No,No,No,Yes,Yes
+Owner98,Leo,3,Unknown,Middle Hair,Hunting,Playing with toys,45,No,Dry Food,141,1,Free Feeding,5.02,24/05/2024,02/08/2026,12/12/2023,Yes,1,Yes,09/02/2023,Brushing,6,Special Food,14.4,3,No,No,No,No,No
+Owner99,Nala,12,Siamese,Middle Hair,Hunting,Cuddling,91,Yes,Dry Food,110,1,Free Feeding,8.61,13/11/2022,Unknown,23/04/2024,Yes,1,No,None,None,5,Special Food,12.3,6,No,No,No,Yes,No
+Owner100,Charlie,8,Unknown,Middle Hair,Hunting,Fetching,112,Yes,Tuna,71,2,Routine Feeding,4.33,18/11/2022,07/10/2025,04/12/2023,Yes,5,No,None,None,0,None,10.5,10,No,Yes,No,No,Yes

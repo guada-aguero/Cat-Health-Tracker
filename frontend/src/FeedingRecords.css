@@ -1,0 +1,55 @@
+/* FeedingRecords.css */
+
+.feeding-records {
+    padding: 20px;
+}
+
+.feeding-record-form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.feeding-record-form .form-label {
+    font-weight: bold;
+}
+
+.feeding-record-form .btn {
+    background-color: #dcbfff;
+    border-color: #dcbfff;
+}
+
+.feeding-record-form .btn:hover {
+    background-color: #b38de6;
+    border-color: #b38de6;
+}
+
+.cat-selection {
+    margin-bottom: 20px;
+}
+
+.cat-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cat-item {
+    margin: 10px;
+    cursor: pointer;
+}
+
+.cat-photo {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 5px;
+}
+
+.cat-name {
+    text-align: center;
+}
+
+.shaded-background {
+    background-color:#d18de6af
+    
+}

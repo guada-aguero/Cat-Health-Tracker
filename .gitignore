@@ -1,0 +1,33 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+myenv/
+
+# Django
+*.log
+*.pot
+*.pyc
+*.so
+*.sqlite3
+*.pyo
+*.db
+
+# Media
+backend/media/photos/
+backend/media/cat_photos/
+
+# Node.js
+node_modules/
+build/
+npm-debug.log
+
+# Environment Variables
+secrets.env
+**/secrets.env
+
+# Misc
+.DS_Store
+.idea/
+.vscode/
+.env

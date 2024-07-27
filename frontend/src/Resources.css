@@ -1,0 +1,27 @@
+.resources {
+    padding: 20px;
+    background-color: #f8f9fad8;
+}
+
+.resources h2 {
+    margin-bottom: 20px;
+}
+
+.resources ul {
+    list-style: none;
+    padding: 0;
+}
+
+.resources li {
+    margin-bottom: 10px;
+}
+
+.resources a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.resources a:hover {
+    text-decoration: underline;
+}
